@@ -2,6 +2,7 @@
 //     determine if it will still be possible for all the N friends
 //     to do so or not.
 
+
 #include <iostream>
 using namespace std;
 int main() 
