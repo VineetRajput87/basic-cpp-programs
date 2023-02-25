@@ -6,7 +6,6 @@
 // 2. b!=d
 // Determine the minimum number of moves required to go from (s_x,s_y) to (e_x,e_y) .
 
-
 #include <iostream>
 using namespace std;
 
