@@ -2,7 +2,7 @@
 //      Each referee has to point out whether he considers the ball
 //      to be inside limits or outside limits. The ball is
 //      considered to be IN if and only if all the referees agree
-//      that it was inside limits.
+//      that it was inside limits. 
 
 // Given the decision of the 4 referees, help Vineet determine whether the ball is considered inside limits or not.
 #include <iostream>
