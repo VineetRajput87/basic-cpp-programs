@@ -1,5 +1,4 @@
 // Q.:- Vineet bought car insurance. The policy of the insurance is:
-
 //     The maximum rebatable amount for any damage is Rs X lakhs.
 //     If the amount required for repairing the damage is ≤ X lakhs, that amount is rebated in full.
 //     Vineet's car meets an accident and required Rs Y lakhs for
