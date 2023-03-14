@@ -2,7 +2,6 @@
 
 // Vineet scored A marks in Section 1, B marks in section 2, and C
 // marks in section 3.
-
 // Vineet passes the exam if both of the following conditions 
 // satisfy:
 
