@@ -18,6 +18,7 @@ int main()
 	    cin>>a;
 	    cout<<"Enter money received by 11 to 100 rank participants : ";
 	    cin>>b;
+		
 	    cout<<(a*10)+(b*90)<<endl;
 	}
 	return 0;
