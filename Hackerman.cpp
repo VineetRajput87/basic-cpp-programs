@@ -27,6 +27,7 @@ int main()
 	        continue;
 	    }
 	    if(i>((a+b)/2))
+		    
 	    cout<<"Alice"<<endl;
 	    else
 	    cout<<"Bob"<<endl;
