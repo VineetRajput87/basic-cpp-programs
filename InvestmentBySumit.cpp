@@ -18,6 +18,7 @@ int main()
 	    cout<<"Enter the value of X and Y : ";
 	    cin>>a>>b;
 	    if(a>=2*b)
+		    
 	    cout<<"YES, The investment is good."<<endl;
 	    else
 	    cout<<"NO, The investment is not good."<<endl;
