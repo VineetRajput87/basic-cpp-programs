@@ -13,6 +13,7 @@ int main()
     {
         int a;
         cout<<"Enter temperature : ";
+	    
         cin>>a;
         if(a>98)
         cout<<"YES"<<endl;
