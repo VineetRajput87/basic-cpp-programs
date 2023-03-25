@@ -4,7 +4,6 @@
 //     Vineet wants to pay his friend exactly X rupees. What is
 //     the minimum number of coins Vineet needs to pay exactly X
 //     rupees?
-
 #include <iostream>
 using namespace std;
 int main() 
