@@ -3,7 +3,7 @@
 //      not get the same number of candies.
 //      Vineet wants to divide all the candies such that there is no 
 //      fight. Find whether such distribution is possible.
-     
+  
 #include <iostream>
 using namespace std;
 
