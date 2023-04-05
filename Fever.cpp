@@ -2,7 +2,6 @@
 //   Determine if Mohit has fever or not.
 #include <iostream>
 using namespace std;
-
 int main()
 {
     int t;
