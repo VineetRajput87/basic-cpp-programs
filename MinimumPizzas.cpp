@@ -2,7 +2,6 @@
 // Find the minimum number of pizzas they should order to satisfy their appetite.
 #include <iostream>
 using namespace std;
-
 int main() 
 {
 	int t;
