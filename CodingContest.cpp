@@ -3,7 +3,6 @@
 //     2. Participants with rank 11 to 100 (both inclusive) receive
 //     rupees Y each.
 //     Find the total prize money over all the contestants.
-
 #include <iostream>
 using namespace std;
 int main()
