@@ -3,7 +3,6 @@
 //     armies combined. For example, kingdom C's army will be
 //     dominant only if  NC>NA+NB.
 //     Determine whether any of the armies is dominant or not.
-
 #include <iostream>
 using namespace std;
 
