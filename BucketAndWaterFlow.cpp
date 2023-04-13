@@ -3,7 +3,6 @@
 //    or is still left unfilled.
 #include <iostream>
 using namespace std;
-
 int main() 
 {
 	    int a,b,c,d;
