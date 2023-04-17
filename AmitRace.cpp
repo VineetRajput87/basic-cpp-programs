@@ -3,7 +3,7 @@
 // between him and the winner of the race.
 // You are his Amit engineer and you only know the time gap 
 // between Amit and the runner up of the race, given as A 
-//   seconds,and the time gap between the runner up and the winner of the race, given as B seconds.
+// seconds,and the time gap between the runner up and the winner of the race, given as B seconds.
 #include <iostream>
 using namespace std;
 int main() 
