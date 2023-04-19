@@ -5,7 +5,7 @@
 using namespace std;
 #define max 100
 int main() 
-{  
+{ 
 	int t[max],i,even=0,odd=0,a;
 	cout<<"Numbers of Soldier : ";
 	cin>>a;
