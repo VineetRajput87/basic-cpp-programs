@@ -1,6 +1,5 @@
 // Q.:- You are given the sequence of Nucleotides of one strand of DNA through a string S of length N. S contains the character A,T,C, and G only.
 // Vineet knows that:
-
 // A is complementary to T.
 // T is complementary to A.
 // C is complementary to G.
