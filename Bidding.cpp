@@ -2,7 +2,6 @@
 // C rupees (where A, B, and C are distinct).
 // According to the rules of the auction, the person who bids the highest amount will win the auction.
 // Determine who will win the auction.
-
 #include <iostream>
 using namespace std;
 
