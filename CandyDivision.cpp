@@ -5,7 +5,6 @@
 //      fight. Find whether such distribution is possible.
 #include <iostream>
 using namespace std;
-
 int main() 
 {
 	int t;
