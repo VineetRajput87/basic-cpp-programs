@@ -4,7 +4,6 @@
 // Determine who will win the auction.
 #include <iostream>
 using namespace std;
-
 int main() 
 {
 	int t;
