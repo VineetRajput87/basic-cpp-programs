@@ -4,7 +4,6 @@
 // marks in section 3.
 // Vineet passes the exam if both of the following conditions 
 // satisfy:
-
 // 1. Total score of Chef is ≥ 100;
 // 2. Score of each section ≥ 10.
 
