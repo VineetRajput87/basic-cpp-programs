@@ -3,7 +3,7 @@
 // For each person, determine whether they will get the required amount of money or not.  
 #include <iostream> 
 using namespace std; 
-int main() 
+int main()  
 {
 	int t;
 	cin>>t;
