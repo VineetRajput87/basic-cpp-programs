@@ -2,7 +2,7 @@
 // One person requires exactly 2 buckets of water to take a bath. Find the maximum number of people that can take bath using water from one completely filled geyser. 
 #include <iostream>  
 using namespace std; 
-int main() 
+int main()
 {
     int t;
     cin>>t;
