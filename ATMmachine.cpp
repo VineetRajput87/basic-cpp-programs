@@ -9,7 +9,7 @@ int main()
 	cin>>t;
 	while(t--)
 	{
-	    int a,b;
+	    int a,b; 
 	    cin>>a>>b;
 	    int c;
 	    for(int i=0 ; i<a ; i++)
