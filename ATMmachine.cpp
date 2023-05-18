@@ -15,7 +15,7 @@ int main()
 	    for(int i=0 ; i<a ; i++)
 	    {
 	        cin>>c;
-	        if(c>b)
+	        if(c>b) 
 	        cout<<0;
 	        else
 	        {
