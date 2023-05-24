@@ -2,7 +2,7 @@
 //    Determine whether the bucket has been overflown,filled exactly,
 //    or is still left unfilled.
 #include <iostream>
-using namespace std;
+using namespace std; 
 int main() 
 {  
 	    int a,b,c,d; 
