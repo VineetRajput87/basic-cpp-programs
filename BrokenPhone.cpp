@@ -17,4 +17,4 @@ int main()
 	    cout<<"ANY"<<endl;
 	}
 	return 0;
-}
+} 
