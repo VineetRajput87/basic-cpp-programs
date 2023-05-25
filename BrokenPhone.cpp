@@ -12,7 +12,7 @@ int main()
 	    if(a<b)
 	    cout<<"REPAIR"<<endl;
 	    else if(b<a)
-	    cout<<"NEW PHONE"<<endl;
+	    cout<<"NEW PHONE"<<endl; 
 	    else
 	    cout<<"ANY"<<endl;
 	}
