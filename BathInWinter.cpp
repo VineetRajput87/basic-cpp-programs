@@ -12,5 +12,5 @@ int main()
         cin>>a>>b;
         cout<<a/(b*2)<<endl;
     }  
-	return 0;
+	return 0; 
 }
