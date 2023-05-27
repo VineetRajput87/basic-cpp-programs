@@ -8,7 +8,7 @@ int main()
     cin>>t;
     while(t--)
     {
-        int a,b;
+        int a,b; 
         cin>>a>>b;
         cout<<a/(b*2)<<endl;
     }  
