@@ -14,7 +14,7 @@ int main()
 	    int a;
 	    cin>>a;
 	    if(a%3==0)
-	    cout<<"YES"<<endl;
+	    cout<<"YES"<<endl; 
 	    else
 	    cout<<"NO"<<endl;
 	}
