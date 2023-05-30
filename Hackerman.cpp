@@ -6,7 +6,6 @@
 // Alice wins the game if the sum on the dice is a prime number; and Bob wins otherwise.
 // Given A and B, determine who wins the game.
 
-
 #include <iostream>
 using namespace std;
 
