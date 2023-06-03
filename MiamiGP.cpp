@@ -3,7 +3,7 @@
 //     finish time as Y seconds, determine whether Chef will be
 //     allowed to race in the main event or not.
 //     Note that, Vineet will only be allowed to race if his finish
-//     time is within 107% of the fastest finish time.
+//     time is within 107% of the fastest finish time. 
 #include <iostream>
 using namespace std;
 
