@@ -10,7 +10,7 @@ using namespace std;
 int main() 
 {
 	    int a,b;
-	    cout<<"Enter the value of X and Y : ";
+	    cout<<"Enter the value of X and Y : "; 
 	    cin>>a>>b;
 	    if(b<=((a*107)/100))
 	    cout<<"YES"<<endl;
