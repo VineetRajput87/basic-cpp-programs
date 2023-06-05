@@ -4,7 +4,7 @@
 using namespace std;
 int main() 
 {
-	int t;
+	int t; 
 	cout<<"How many times do you want to continue : ";
 	cin>>t; 
 	while(t--)
