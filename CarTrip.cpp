@@ -11,7 +11,7 @@ int main()
 	{
 	    int a;
 	    cout<<"Enter the distance in KM : ";
-	    cin>>a;
+	    cin>>a; 
 	    if(a<=300)
 	    cout<<300*10<<endl;
 	    else
