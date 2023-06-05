@@ -6,7 +6,7 @@ int main()
 {
 	int t;
 	cout<<"How many times do you want to continue : ";
-	cin>>t;
+	cin>>t; 
 	while(t--)
 	{
 	    int a;
