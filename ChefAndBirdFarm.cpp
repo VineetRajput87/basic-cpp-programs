@@ -2,7 +2,7 @@
 
 // Given that the birds on the farm have a total of Z legs:
 // Print CHICKEN, if the farm can have only chickens but not ducks.
-// Print DUCK, if the farm can have only ducks but not chickens.
+// Print DUCK, if the farm can have only ducks but not chickens. 
 // Print ANY, if the farm can have either chickens or ducks.
 // Print NONE, if the farm can have neither chickens nor ducks.
 
