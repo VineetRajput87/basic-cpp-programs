@@ -2,7 +2,7 @@
 //     Vineet already has Y multivitamin tablets.
 //     Determine if Vineet has enough tablets for these X days
 //     or not.
-
+ 
 #include <iostream> 
 using namespace std;
 
