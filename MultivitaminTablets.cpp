@@ -3,7 +3,7 @@
 //     Determine if Vineet has enough tablets for these X days
 //     or not.
 
-#include <iostream>
+#include <iostream> 
 using namespace std;
 
 int main() 
