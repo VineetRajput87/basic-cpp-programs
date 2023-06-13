@@ -3,7 +3,6 @@
 // You are given a string SS consisting of NN lowercase Latin characters. Determine whether it is easy to pronounce or not based on the rule above — print YES if it is easy to pronounce and NO otherwise.
 // For the purposes of this problem, the vowels are the characters {a,e,i,o,u} and the consonants are the other 21 characters.
  
-
 #include <iostream>
 using namespace std;
 
