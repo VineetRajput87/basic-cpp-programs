@@ -6,7 +6,7 @@
 // It is given that the time penalty is the minimum time instant at which a participant has solved both the problems. Also the participant with the lower time penalty will have a better rank.
 // Determine which participant got the better rank or if there is a TIE.
  
-#include <iostream>
+#include <iostream> 
 using namespace std;
 
 int main() 
