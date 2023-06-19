@@ -8,7 +8,7 @@ int main()
 	int a;
 	cin>>a;
 	if(a>0 && a<=50)
-	cout<<100<<endl;
+	cout<<100<<endl; 
 	else if(a>50 && a<=100)
 	cout<<50<<endl;
 	else
