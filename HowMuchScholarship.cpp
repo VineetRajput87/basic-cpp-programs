@@ -9,7 +9,7 @@ int main()
 	cin>>a;
 	if(a>0 && a<=50)
 	cout<<100<<endl; 
-	else if(a>50 && a<=100)
+	else if(a>50 && a<=100) 
 	cout<<50<<endl;
 	else
 	cout<<0<<endl;
