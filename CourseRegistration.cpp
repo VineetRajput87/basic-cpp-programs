@@ -9,7 +9,7 @@ int main()
 	    int a,b,c;
 	    cout<<"Enter the value of N,M and K : ";
 	    cin>>a>>b>>c;
-	    if((b-c)>=a)
+	    if((b-c)>=a) 
 	    cout<<"YES, They can !"<<endl;
 	    else
 	    cout<<"NO, They don't !"<<endl;
