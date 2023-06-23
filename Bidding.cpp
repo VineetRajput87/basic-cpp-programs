@@ -14,7 +14,7 @@ int main()
 	    cin>>a>>b>>c;
 	    if(a>b && a>c)
 	    cout<<"Alice"<<endl;
-	    else if(b>a && b>c)
+	    else if(b>a && b>c) 
 	    cout<<"Bob"<<endl;
 	    else
 	    cout<<"Charlie"<<endl;
