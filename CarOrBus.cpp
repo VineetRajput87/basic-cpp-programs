@@ -2,7 +2,6 @@
 // Travel with his BIKE which takes X minutes.
 // Travel with his CAR which takes Y minutes.
 // Which of the two options is faster or do they both take same time?
-
 #include <iostream>
 using namespace std;
 int main() 
