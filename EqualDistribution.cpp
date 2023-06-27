@@ -4,7 +4,6 @@
 // Note that:
 // It is not allowed to break a chocolate into more than one piece.
 // No chocolate shall be left in the distribution.
-
 #include <iostream>
 using namespace std;
 
