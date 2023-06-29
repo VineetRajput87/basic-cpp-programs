@@ -8,7 +8,7 @@
     
 #include <iostream>
 using namespace std;
-int main() 
+int main()
 {
     int t,a,b;
     cout<<"Enter how many times you wnat to repeat : ";
