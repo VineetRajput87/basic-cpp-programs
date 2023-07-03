@@ -9,7 +9,7 @@ int main()
 	while(t--)
 	{ 
 	    int a,b;
-	    cout<<"Enter A and B : ";
+	    cout<<"Enter A and B : "; 
 	    cin>>a>>b;
 	    if(a>=(b*30))
 	    cout<<"YES"<<endl;
