@@ -7,7 +7,7 @@ int main()
 	cout<<"how many times do you want to continue : ";
 	cin>>t;
 	while(t--)
-	{
+	{ 
 	    int a,b;
 	    cout<<"Enter A and B : ";
 	    cin>>a>>b;
