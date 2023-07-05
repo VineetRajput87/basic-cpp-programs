@@ -8,7 +8,7 @@ int main()
     cout<<"How many times you want to repeat : ";
     cin>>t;
     while(t--)
-    {
+    { 
         cout<<"Your total income is : ";
         cin>>a;
         if(a<=100)
