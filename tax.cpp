@@ -1,6 +1,6 @@
 //Q.:- In Rajland, a tax of rupees 10 is deducted if the total income is strictly greater than rupees 100.
 //     Given that total income is X rupees, find out how much money you get.
-#include <iostream>
+#include <iostream> 
 using namespace std;
 int main() 
 { 
