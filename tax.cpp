@@ -5,7 +5,7 @@ using namespace std;
 int main() 
 { 
     int t,a;
-    cout<<"How many times you want to repeat : ";
+    cout<<"How many times you want to repeat : "; 
     cin>>t;
     while(t--)
     { 
