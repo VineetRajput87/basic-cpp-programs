@@ -1,5 +1,5 @@
 //Q.:- Raj's dog binary hears frequencies starting from 67 Hertz to 45000 Hertz (both inclusive).
-//     If Raj's commands have a frequency of X Hertz, find whether binary can hear them or not.
+//    If Raj's commands have a frequency of X Hertz, find whether binary can hear them or not.
 
 #include <iostream>
 using namespace std;
