@@ -2,7 +2,6 @@
 // It is known that Ram's office is X km away from his home.
 // // If his office is open on 5 days in a week, 
 // find the number of kilometers Ram travels through office trips in a week.
-
 #include <iostream>
 using namespace std;
 
