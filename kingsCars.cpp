@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std; 
 int main() 
-{
+{ 
     int t,N,M;
     cout<<"Enter how many times you wnat to repeat : ";
     cin>>t;
