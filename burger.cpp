@@ -1,5 +1,5 @@
 // Q, :- vineet is fond of burgers and decided to make as many burgers as possible.
-// vineet has A patties and B buns. To make 1 burger, vineet needs 1 patty and 1 bun.
+// vineet has A patties and B buns. To make 1 burger, vineet needs 1 patty and 1 bun. 
 // Find the maximum number of burgers that vineet can make.
 #include <iostream>
 using namespace std;
