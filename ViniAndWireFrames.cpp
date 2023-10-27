@@ -1,5 +1,5 @@
 // Q.:- Vineet has a rectangular plate of length N cm and width M cm. He wants to make a wireframe around the plate. The wireframe costs X rupees per cm.
-//     Determine the cost Vineet needs to incur to buy the wireframe.
+//     Determine the cost Vineet needs to incur to buy the wireframe. 
  
 #include <iostream> 
 using namespace std;
