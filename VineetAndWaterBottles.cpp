@@ -1,6 +1,5 @@
 // Q.:- Vineet has N empty bottles where each bottle has a capacity of X litres.
 // There is a water tank in Chefland having K litres of water. Vineet wants to fill the empty bottles using the water in the tank.
-
 // Assuming that Vineet does not spill any water while filling the bottles, find out the maximum number of bottles Vineet can fill completely.
 
 #include <iostream>
