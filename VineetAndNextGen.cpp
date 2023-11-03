@@ -10,7 +10,7 @@
 // of power each year for the next B years.
 // Help Vineet determine whether the group will get funded assuming
 // that the moon has X grams of Helium-3 and 1 gram of Helium-3 can
-// provide Y units of power.
+// provide Y units of power. 
 
 #include <iostream>
 using namespace std;
