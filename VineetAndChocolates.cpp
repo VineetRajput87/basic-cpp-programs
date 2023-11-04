@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int main() 
+int main()
 {
 	int t;
 	cout<<"How many times do you want to continue : ";
