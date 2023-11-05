@@ -2,7 +2,7 @@
 
 // Determine the minimum number of candy packets Vineet must buy so that he is able to give 1 candy to each of the N children.
 #include <iostream>
-using namespace std;
+using namespace std; 
 
 int main() 
 {
