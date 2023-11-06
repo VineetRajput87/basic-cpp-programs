@@ -2,7 +2,7 @@
 
 // Find the minimum time (in seconds) after which Vineet should shoot the bullet, such that it hits the goomba after at least Z seconds from now.
 
-#include <iostream>
+#include <iostream> 
 using namespace std;
 
 int main() 
