@@ -3,7 +3,7 @@
 //     range for taking his second dose. 
 
 #include <iostream>
-using namespace std;
+using namespace std; 
 int main() 
 {
 	int t;
