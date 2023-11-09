@@ -5,7 +5,7 @@
 //     for whichever questions Alice marked false, Bob marked true.
 //     Determine the score of Bob.
 
-#include <iostream> 
+#include <iostream>
 using namespace std;
 int main() 
 {
