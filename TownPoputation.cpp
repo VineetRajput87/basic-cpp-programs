@@ -1,7 +1,7 @@
 // Q.:-There were initially X million people in a town, out of which Y million people left the town and Z million people immigrated to this town.
 //     Determine the final population of town in millions.
  
-#include <iostream> 
+#include <iostream>
 using namespace std;
 int main() 
 {
