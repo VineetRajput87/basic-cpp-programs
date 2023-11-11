@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 class Tollbooth
-{
+{ 
 private:
     int total_cars=0;
     double total_amount=0;
