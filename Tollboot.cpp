@@ -4,7 +4,7 @@ class Tollbooth
 { 
 private:
     int total_cars=0;
-    double total_amount=0;
+    double total_amount=0; 
 
 public:
     void payingcar();
