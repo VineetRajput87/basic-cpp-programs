@@ -2,7 +2,7 @@
 //      Ravi left for the office X minutes before Ravi was
 //      supposed to reach. Determine whether or not Ravi will 
 //      be able to reach on time. 
-
+ 
 #include <iostream>
 using namespace std;
 int main() 
