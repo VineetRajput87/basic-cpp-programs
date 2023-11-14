@@ -6,7 +6,7 @@
 // help Chef in finding whether he should rent the cooler or not. 
 
 // Vineet rents the cooler only if the cost of renting the cooler is
-// strictly less than the cost of purchasing it. Otherwise, he
+// strictly less than the cost of purchasing it. Otherwise, he 
 // purchases the cooler.
 
 // Print YES if Vineet should rent the cooler, otherwise print NO.
