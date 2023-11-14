@@ -3,7 +3,7 @@
 // 1. Rent a cooler at the cost of X coins per month.
 // 2. Purchase a cooler for Y coins.
 // Given that the summer season will last for M months in Iceland,
-// help Chef in finding whether he should rent the cooler or not.
+// help Chef in finding whether he should rent the cooler or not. 
 
 // Vineet rents the cooler only if the cost of renting the cooler is
 // strictly less than the cost of purchasing it. Otherwise, he
