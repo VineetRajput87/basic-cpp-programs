@@ -1,6 +1,5 @@
 // Q.:- In a test, there are N problems, each carrying X marks.
 // In each problem, Vineet either received X marks or 0 marks.
-
 // Determine whether is it possible for Vineet to achieve exactly Y marks.
 
 #include <iostream>
