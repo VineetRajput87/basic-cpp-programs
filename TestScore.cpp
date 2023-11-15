@@ -3,7 +3,7 @@
 // Determine whether is it possible for Vineet to achieve exactly Y marks.
 
 #include <iostream>
-using namespace std;
+using namespace std; 
 
 int main() 
 {
