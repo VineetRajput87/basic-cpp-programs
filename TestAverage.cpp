@@ -4,7 +4,7 @@
 //     Determine whether Vineet will pass or fail.
  
 #include <iostream>
-using namespace std;
+using namespace std; 
 
 int main() 
 {
