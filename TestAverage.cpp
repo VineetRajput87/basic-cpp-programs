@@ -1,5 +1,4 @@
 // Q.:- Vineet has scored A,B, and C marks in 3 different subjects respectively.
-
 //     Vineet will fail if the average score of any two subjects is
 //     less than 35.
 //     Determine whether Vineet will pass or fail.
