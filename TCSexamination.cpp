@@ -3,7 +3,6 @@
 // You know the individual scores of both Dragon and Sloth in all 3 subjects. You have to determine who got a better rank.
 
 // The rank is decided as follows:
-
 // The person with a bigger total score gets a better rank.
 // If the total scores are tied, the person who scored higher in
 // DSA gets a better rank.
