@@ -5,7 +5,7 @@
 // He spends 30% of his total income on shop rent.
 // Alice wonders, what is the juicer's profit (in coins) when he sells N glasses of sugarcane juice?
 
-#include <iostream>
+#include <iostream> 
 using namespace std;
 
 int main() 
