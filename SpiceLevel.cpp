@@ -6,7 +6,7 @@
 //     HOT: If the spice level is greater than equal to 7.
 //     Given that the spice level of an item is X, find the
 //     category it lies in.
-
+ 
 #include <iostream>
 using namespace std;
 int main() 
