@@ -2,7 +2,7 @@
 
 //     MILD: If the spice level is less than 4.
 //     MEDIUM: If the spice level is greater than equal to 4 but
-//     less than 7.
+//     less than 7. 
 //     HOT: If the spice level is greater than equal to 7.
 //     Given that the spice level of an item is X, find the
 //     category it lies in.
