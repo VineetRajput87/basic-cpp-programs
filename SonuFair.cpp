@@ -3,7 +3,7 @@
 //     can be used by only one person.
 
 #include <iostream>
-using namespace std;
+using namespace std; 
 int main() 
 {
     int t;
