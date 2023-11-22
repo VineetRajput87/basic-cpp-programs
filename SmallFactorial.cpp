@@ -1,6 +1,6 @@
 // Q.:- Write a program to find the factorial value of any number entered by the user.
  
-#include <iostream>
+#include <iostream> 
 using namespace std;
 
 int main() 
