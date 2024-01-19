@@ -34,7 +34,7 @@ class Electricity
         float calculate()
         {
             float charge = 0;
-
+           
             if(Unit_consumed<100)        // For the first 100 Unit 60P/Unit.
                 charge = (Unit_consumed*0.6);
             else if(Unit_consumed>=100 && Unit_consumed<=200)  // For the next 200 Unit 80P/Unit.
